@@ -9,7 +9,7 @@ name: Flutter CI/CD
 on:
   push:
     branches: [ "main" ] # Triggers the workflow on a push to the main branch.  Change to your main branch if different.
- 
+
 
 jobs:
   build:
